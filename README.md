@@ -6,6 +6,8 @@
 
 <!-- - 🔭 I’m currently working on [Your Project/Specialty] -->
 - 🌱 I’m currently learning C++.
+- 📝 I'm currently studying computer engineering.
+- ♟️ I love to play chess!
 <!-- - 👯 I’m looking to collaborate on [Project/Tech Stack] -->
 <!-- - 💬 Ask me about [Topics/Skills] -->
 <!-- - 📫 How to reach me: [Your Email/LinkedIn/Twitter] -->
