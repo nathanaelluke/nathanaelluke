@@ -37,7 +37,6 @@
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanael-luke-ab30a3225)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 <!--
 **nathanaeljack/nathanaeljack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
