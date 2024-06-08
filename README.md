@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on making a chess bot.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Python.
 - 📝 I'm currently studying computer engineering.
 - ♟️ I love to play chess!
 <!-- - 👯 I’m looking to collaborate on [Project/Tech Stack] -->
