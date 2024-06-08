@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-<!-- - 🔭 I’m currently working on [Your Project/Specialty] -->
+- 🔭 I’m currently working on making a chess bot.
 - 🌱 I’m currently learning C++.
 - 📝 I'm currently studying computer engineering.
 - ♟️ I love to play chess!
