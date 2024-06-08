@@ -1,6 +1,6 @@
 # Hello, I'm Nathanael 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=nathanaeljack&color=blue)
 
 ## 👨‍💻 About Me
 
