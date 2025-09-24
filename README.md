@@ -4,9 +4,9 @@
 
 ## 👨‍💻 About Me
 
-- 📝 I'm currently studying computer engineering.
+- 📝 Currently studying computer engineering.
 - 💻 Trying to get better at C++.
-- ♟️ I love to play chess!
+- ♟️ Love playing chess!
 
 <!--## 🛠️ Technologies & Tools
 
