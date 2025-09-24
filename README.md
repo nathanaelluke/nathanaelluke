@@ -25,6 +25,11 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 -->
 
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanael-luke-ab30a3225)
+
 <!-- Stolen from someone else -->
 <picture>
   <source
@@ -37,7 +42,3 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanael-luke-ab30a3225)
