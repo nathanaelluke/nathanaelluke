@@ -1,9 +1,6 @@
-# hi, i'm nathanael!
+hi, i'm nathanael!
 
-![Profile Views](https://komarev.com/ghpvc/?username=nathanaeljack&color=blue)
-
-## what i'm up to
-
+what i'm up to
 - studying computer engineering.
 - learning c++.
 - losing chess games.
