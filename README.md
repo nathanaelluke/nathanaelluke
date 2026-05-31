@@ -1,9 +1,4 @@
-hi, i'm nathanael!
-
-what i'm up to
-- studying computer engineering.
-- learning c++.
-- losing chess games.
+hey
 
 <!-- Stolen from someone else -->
 <picture>
